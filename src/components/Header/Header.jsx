@@ -54,8 +54,8 @@ function Header() {
 
 
         <div className='hidden lg:flex'>
-        <Link to='/login'>
-          <Button className=' font-semibold text-white hover:bg-[#0250C5] hover:text-white ' variant='ghost'>Login <ArrowRightIcon/></Button>
+        <Link to='https://github.com/shubhpraaa'>
+          <Button className=' font-semibold text-white hover:bg-[#0250C5] hover:text-white ' variant='ghost'>Github <ArrowRightIcon/></Button>
         </Link>
         </div>
       </nav>
